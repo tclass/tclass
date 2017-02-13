@@ -1,0 +1,11 @@
+[posts]
+	title = "All posts"
+[posts.image]
+	  feature = "/images/background.png"
+	  credit = "Neonflames"
+	  creditlink = "https://29a.ch/"
+
+[tags.image]
+	  feature = "/images/background.png"
+	  credit = "Neonflames"
+	  creditlink = "https://29a.ch/"

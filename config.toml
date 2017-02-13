@@ -1,0 +1,17 @@
+languageCode = "en-gb"
+title = ""
+theme = "hpstr-hugo-theme"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+[params]
+	subtitle = "fun, coffee, politics and code"
+	[params.author]
+		name = "Tobi"
+		avatar = "/images/avatar.jpg"
+		bio = "Software-Engineer living in Berlin"
+		github = "tclass"
+	[params.image]
+	  feature = "/images/background.png"
+	  credit = "Neonflames"
+	  creditlink = "https://29a.ch/"
