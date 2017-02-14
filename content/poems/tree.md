@@ -24,7 +24,7 @@ share: false
 > poems are dumb, drugs kickin in!    
 
 </div>  
-<div style="float:left;width:49%;margin-left:10px;margin-top:16px">  
-<img src="/images/poems/tree.jpg">  
-<p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>  
+<div style="float:left;width:49%;margin-left:10px">
+<img src="/images/poems/tree.jpg">
+<p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>
 </div> <!----> 
