@@ -17,7 +17,8 @@ you are searching for the secret weapon that will fix all your problems, please 
 Cold showers are hard to do for many people and everyone would be a little bit afraid if he or she would want to do it
 for the first time. But for me the upsides are very clear and have nothing to do with some bro-science bullshit. 
  
- ## They
+#### cold showers:
+
  - raising your heart rate and so you feel awake and fresh afterwards
  - will be a challenge every morning, it's a "getting out of your comfort zone" kind of behaviour you do every morning
  - will prevent you from getting sick
