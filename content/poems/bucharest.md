@@ -36,15 +36,15 @@ share: false
 > we stay by your side, asspats forever 
 </div>
 <div style="float:left;width:45%;margin-left:10px;margin-top:16px">
-<img src="http://localhost:1313/images/poems/bucharest_building.jpg">
+<img src="/images/poems/bucharest_building.jpg">
 <p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>
 </div>
 <div style="float:left;width:45%;margin-left:10px;margin-top:16px">
-<img src="http://localhost:1313/images/poems/bucharest_tobi.png">
+<img src="/images/poems/bucharest_tobi.png">
 <p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>
 </div>
 <div style="margin-top:10px;float:left">
-<img src="http://localhost:1313/images/poems/bucharest_camera.jpg" style="height:408px">
+<img src="/images/poems/bucharest_camera.jpg" style="height:408px">
 <p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>
 </div>
 <!-- -->

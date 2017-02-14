@@ -7,7 +7,8 @@ date: 2017-02-12
 comments: false
 share: false
 ---
-<div style="float:left;width:330px;width:49%">
+
+<div style="float:left;width:49%">
 
 > There is a rumor, about a big tree    
 > that stands in berlin, near by the spree  
@@ -20,10 +21,10 @@ share: false
 > filters of filters, is what you should use  
 > some many filters, as it were abuse"  
 > do it just do it, little boy from berlin  
-> poems are dumb, drugs kickin in!
+> poems are dumb, drugs kickin in!    
 
-</div>
-<div style="float:left;width:49%;margin-left:10px;margin-top:16px">
-<img src="http://localhost:1313/images/poems/tree.jpg">
-<p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>
-</div>
+</div>  
+<div style="float:left;width:49%;margin-left:10px;margin-top:16px">  
+<img src="/images/poems/tree.jpg">  
+<p style="font-size: 12px;margin:0">by: Sebastian Herrmann</p>  
+</div> <!----> 
