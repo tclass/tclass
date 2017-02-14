@@ -15,7 +15,7 @@ share: false
 > oh boy oh boy, did we go for a ride   
 > did so many things, even at night     
 >   
-> sebastian and kevin, tukka and me   
+> sebastian and kevin, tuukka and me   
 > anni and phillip and anthony   
 > and man of the hour, birthday kid at least   
 > this was our trip, in the not so far east   
