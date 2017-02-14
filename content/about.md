@@ -21,8 +21,8 @@ just ask, maybe I can help you.
 I'm also very interested in 
 - politics, mostly german or western world
 - music, because I play guitar for some years and maybe starting with piano lessons soonTM
-- movies and tv-shows, as a 2X year old, everyone has his/her favorite tv show I guess, so do I
+- movies and tv-shows, as a 2x year old, everyone has his/her favorite tv show I guess, so do I
 
-<img src="http://localhost:1313/images/docker.png" width="180">
-<img src="http://localhost:1313/images/gopher.png" width="150" style="padding-left:80px">
-<img src="http://localhost:1313/images/postgres.png" width="200" style="margin-left:100px">
+<img src="/images/docker.png" width="180">
+<img src="/images/gopher.png" width="150" style="padding-left:80px">
+<img src="/images/postgres.png" width="200" style="margin-left:100px">
